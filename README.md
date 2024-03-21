@@ -1,8 +1,8 @@
 ## sudoku-solver-js
-A sudoku solver written in javascript. 
+A samurai sudoku solver written in javascript. 
 
 ## Project Status
-Completed
+Starting
 
 ## Built with
 * [Javascript](https://reactjs.org/)
