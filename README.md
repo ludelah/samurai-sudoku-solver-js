@@ -1,4 +1,4 @@
-## sudoku-solver-js
+## samurai-sudoku-solver-js
 A samurai sudoku solver written in javascript. 
 
 ## Project Status
